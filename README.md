@@ -1,4 +1,4 @@
-# 🤖 AI Assistant Core
+#  AI Assistant Core
 
 This is my Project #4 in my AI learning journey.
 
@@ -6,7 +6,7 @@ It is a simple AI assistant system built in Python that demonstrates how memory-
 
 ---
 
-## 🧠 What it does
+##  What it does
 
 - Talks to the user (basic chatbot system)
 - Stores conversations in memory (JSON file)
@@ -15,7 +15,7 @@ It is a simple AI assistant system built in Python that demonstrates how memory-
 
 ---
 
-## 🏗️ System Structure
+##  System Structure
 
 - `assistant.py` → Main brain (handles conversation flow)
 - `memory.py` → Handles saving and loading memory
@@ -24,13 +24,13 @@ It is a simple AI assistant system built in Python that demonstrates how memory-
 
 ---
 
-## 🔄 How it works
+##  How it works
 
 User message → Search memory → Generate response → Save conversation → Reply
 
 ---
 
-## 🚀 Why I built this
+##  Why I built this
 
 This project helps me understand:
 - AI memory systems
@@ -40,7 +40,7 @@ This project helps me understand:
 
 ---
 
-## 📌 Next Upgrade Ideas
+##  Next Upgrade Ideas
 
 - Smarter memory search
 - Better response generation
@@ -49,4 +49,4 @@ This project helps me understand:
 
 ---
 
-## 🧠 Built as part of my AI learning journey
+##  Built as part of my AI learning journey
